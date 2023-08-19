@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+@media screen and (min-width:1024px) {
+    section#qrcode{
+        height: 600px;
+        width: 400px;
+    }
+
+    img#code{
+        height: 340px;
+        width: 360px;
+    }
+
+    div#text{
+        height: 210px;
+        width: 360px ;
+    }
+
+    div > #text1{
+        margin-top: 10px;
+        font-size: 1.7em;
+    }
+    
+    div > #text2{
+        font-size: 1.3em;
+    }
+
+    @media screen and (min-width:1024px) {
+        
+    }
+}
