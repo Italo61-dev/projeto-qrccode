@@ -1,2 +1,0 @@
-# projeto-qrccodee
- Projeto QrCode
